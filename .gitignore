@@ -1,0 +1,8 @@
+#ignore files
+.vscode/
+.wwebjs_auth/
+comands.json
+node_modules/
+package-lock.json
+package.json
+whatsapp/
